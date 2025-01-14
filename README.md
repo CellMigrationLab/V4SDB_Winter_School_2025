@@ -60,9 +60,10 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 ## Workshop step-by-step:
 
 **1. Cell Tracking with TrackMate**
-- Define tracking parameters in the **TrackMate interface** useing the *image_for_tracking_settings* -image from the *0_Tracking_settings* folder.
+- Open Fiji and the image *image_for_tracking_settings* -image from the *0_Tracking_settings* folder.
+- Define tracking parameters in the **TrackMate interface**.
 - **Save traking settings** as XML for batch processing.
-- **Batch process** all images from the *1_TrackMate_batcher_input* -folder using the TrackMate batcher.
+- Open the TrackMate batcher to **Batch process** all images from the *1_TrackMate_batcher_input* -folder.
 - **Export tracking data** (spot tables, track tables, movies).
 
 **2. Analyze TrackMate output in CellTracksColab.**
@@ -76,9 +77,9 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 </table>
 
 - You can also use the pre-made CellTracksColab input from the *2_CellTracksColab_input* -folder
-- Create a folder for results
-- Open The [CellTracksColab TrackMate notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_TrackMate.ipynb) and make a copy to your drive 
-- Run all cells visualize and to generate plots.
+- Create a new folder for results
+- Open The [CellTracksColab TrackMate notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_TrackMate.ipynb) and make a copy to your drive. 
+- Run all cells to visualize tracks and to generate plots.
 - Bonus: Utilize advanced dimensionality reduction techniques to understand your data using [Dimensionality Reduction notebook](https://colab.research.google.com/github/guijacquemet/CellTracksColab/blob/main/Notebook/CellTracksColab_Dimensionality_Reduction.ipynb) 
 
 ---- 
