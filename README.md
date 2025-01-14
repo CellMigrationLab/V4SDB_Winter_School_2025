@@ -45,7 +45,7 @@ By the end of this workshop, participants will be familiar with TrackMate's trac
 **2. Download and prepare Fiji**
 
 - [Download Fiji](https://fiji.sc/)
-- Open Fiji and activate TrackMate Helper update site. Restart Fiji.
+- Open Fiji and activate **TrackMate Helper** update site. Restart Fiji.
 
 <table>
   <tr>
